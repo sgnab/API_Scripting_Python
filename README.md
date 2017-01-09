@@ -1,3 +1,3 @@
 # Api-scripts
-CSome Simple scripts to pull out weather information or sending Textmessages using different Apis such as openweathermap api,
+Some simple scripts to pull out weather information or sending Textmessages using different Apis such as openweathermap api,
 Nexmo,...
